@@ -1,6 +1,6 @@
 let canvas;
 let ctx;
-let appWidth;
+let apidpWth;
 let appHeight;
 
 // called by NOOPBOT on window.onload
